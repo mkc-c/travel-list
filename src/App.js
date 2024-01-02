@@ -119,7 +119,7 @@ function Stats({ items }) {
   if (!items.length)
     return (
       <p className="stats">
-        <em>Start adding some items to your packing list 🚀s</em>
+        <em>Start adding some items to your packing list 🚀</em>
       </p>
     );
 
